@@ -4,12 +4,12 @@
 
 ## Công cụ
 
-- [ ] Git đã cài và chạy được `git --version`.
-- [ ] Docker đã cài và chạy được `docker --version`.
-- [ ] Docker Compose đã cài và chạy được `docker compose version`.
-- [ ] Node.js đã cài và chạy được `node --version`.
-- [ ] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
-- [ ] VS Code đã cài.
+- [X] Git đã cài và chạy được `git --version`.
+- [X] Docker đã cài và chạy được `docker --version`.
+- [X] Docker Compose đã cài và chạy được `docker compose version`.
+- [X] Node.js đã cài và chạy được `node --version`.
+- [X] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
+- [X] VS Code đã cài.
 - [ ] Postman đã cài.
 
 ## Docker
